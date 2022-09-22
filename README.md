@@ -6,7 +6,7 @@
 
 > Projeto Stranger Things
 
-[Clique aqui para acessar](https://klayvemguimaraes.github.io/klayvemguimaraes.github.io/Stranger-Things/assets/kley.html)
+[Clique aqui para acessar](https://klayvemguimaraes.github.io/Stranger-Things/Stranger-Things/assets/kley.html)
 
 # 🌍 Tecnologias
 
